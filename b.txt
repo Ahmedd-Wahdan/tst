@@ -1,10 +1,15 @@
 #include<iostream>
 
 using namespace std;
-int add(int a,int b); //comment
+
+int add (int a,int b); //comment
 
 
-int sub(int a,itn b);
+
+//comment
+//commment
+
+int sub(int a,int b);
 int main(){
 
 
